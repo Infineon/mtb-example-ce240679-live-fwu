@@ -1,0 +1,11 @@
+$(SEARCH_ifx-mbedtls)/3rdparty
+$(SEARCH_ifx-mbedtls)/programs
+$(SEARCH_ifx-mbedtls)/tests 
+# Documentation
+images
+
+# Exports, Project settings
+.mtbLaunchConfigs
+.settings
+.vscode
+
